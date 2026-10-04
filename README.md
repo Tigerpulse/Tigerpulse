@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="Tigerpulse_%20Goldener%20Herzschlag-Tiger%201200x300.png" alt="Tigerpulse Banner">
+</p>
 
-<!--
-**Tigerpulse/Tigerpulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, ich bin Tigerpulse! 💜
 
-Here are some ideas to get you started:
+Hier entstehen kleine, nützliche Freeware-Tools und Software-Projekte, die aus meinen eigenen Ideen und Bedürfnissen hervorgegangen sind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mein Fokus liegt auf einfachen und angenehm zu bedienenden Programmen – von kleinen Alltagshelfern bis hin zu Streaming- und Gartenprojekten.
+
+Alle veröffentlichten Programme sind aktuell nur in deutscher Sprache verfügbar.
+
+### 🔗 Wo du mich findest
+
+- [Freeware & Projekte auf itch.io](https://tigerpulse.itch.io/)
+- [Twitch](https://www.twitch.tv/tigerpulse)
